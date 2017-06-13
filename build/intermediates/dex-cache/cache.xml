@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.0_34e145490250bb9a35309b9272420487bddf8eec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.0_c25f9de56d7dcbd898292b2edaeb67caa24c1696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.0_4d3653350b8f004ff264e469fa2ed414702911fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.0_11e45e1017a4f17a0c872fdb8b06f14484faa4f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.0_dda8ee0cf0d387d162694177a713ba7649326014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.0_bbd5f6aac6f47d0e59f4ee3828268067240daa3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_76ddedd109a9eeb10cca5ffd988ec03ac9e5e2e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_8f16b65797bf030a7fd4577a447fc6e4f05cfbc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.0_7cf20b8834d6ed54eac8cacd7bf7189f20374fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_26f47d7cd03433bbabf15f0b3c75239f5770200b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.0_8b6a29d982553ec73f4b69dbd25874a56aad384c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/design/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.0_8deb73596a631b1773b65eed52170c0453682294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.0_3ac5d8f5993f0d7d4bf09fda97a230ca14efcfe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.0_93d50b1d6695b32e51a3dc842ba25a8a9d67b941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_e4bfc90b9b60686c39e996920979dac39bd15ce0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/isnaini/02 Android/DearDiary/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/isnaini/02 Android/DearDiary/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.0_e59eb0755a1ef0ef066a61fda882ce3765a81b36.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/btn_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/color_transp"
+        android:text="@string/text_button_edit"
+        android:textSize="@dimen/ukuran_teks_button"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent">
+    </View>
+
+    <Button
+        android:id="@+id/btn_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/color_transp"
+        android:text="@string/text_button_delete"
+        android:textSize="@dimen/ukuran_teks_button"
+        android:textColor="@color/colorPrimary"/>
+
+</LinearLayout>
